@@ -1,5 +1,7 @@
 ![Nextjs 14 Authentication and Role-Based Authorization Using NextAuth with Mongodb Adapter](./nextauth-node.png)
 
+Youtube: https://www.youtube.com/watch?v=JBo2DMegIxM
+
 ## 🚀 Nextjs 14 Authentication and Role-Based Authorization Using NextAuth with Mongodb Adapter
 
 🔥 Key Highlights:
